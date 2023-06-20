@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="100%"
+  height="100%"
+  viewBox="0 0 3300 2550"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xml:space="preserve"
+  xmlns:serif="http://www.serif.com/"
+  style="
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke-linejoin: round;
+    stroke-miterlimit: 2;
+  "
+>
+  <defs>
+    <style type="text/css">
+      @import url("/webfonts.css");
+    </style>
+  </defs>
+  <g transform="matrix(150,0,0,150,1906.74,417.6)"></g>
+  <text
+    x="303.543px"
+    y="417.6px"
+    style="
+      font-family: 'PlayfairDisplay-Regular', 'Playfair Display';
+      font-size: 150px;
+    "
+  >
+    P
+    <tspan
+      x="389.943px 432.843px 506.643px 581.193px "
+      y="417.6px 417.6px 417.6px 417.6px "
+    >
+      layf
+    </tspan>
+    air
+    <tspan x="813.243px " y="417.6px "></tspan>
+    Displa
+    <tspan x="1273.89px 1345.59px " y="417.6px 417.6px ">y</tspan>
+    Regular
+  </text>
+  <g transform="matrix(150,0,0,150,1135.14,1047.3)"></g>
+  <text
+    x="303.543px"
+    y="1047.3px"
+    style="font-family: 'Lato-Regular', 'Lato', sans-serif; font-size: 150px"
+  >
+    Lato Regular
+  </text>
+  <g transform="matrix(150,0,0,150,941.043,1260.56)"></g>
+  <text
+    x="303.543px"
+    y="1260.56px"
+    style="
+      font-family: 'Lato-Bold', 'Lato', sans-serif;
+      font-weight: 700;
+      font-size: 150px;
+    "
+  >
+    Lato Bold
+  </text>
+  <g transform="matrix(150,0,0,150,1170.58,1468.98)"></g>
+  <text
+    x="303.543px"
+    y="1468.98px"
+    style="font-family: 'Helvetica'; font-size: 150px"
+  >
+    Arial Regular
+  </text>
+  <g transform="matrix(150,0,0,150,1011.94,1681.62)"></g>
+  <text
+    x="303.543px"
+    y="1681.62px"
+    style="
+      font-family: 'Helvetica-Bold', 'Helvetica';
+      font-weight: 700;
+      font-size: 150px;
+    "
+  >
+    Arial Bold
+  </text>
+  <g transform="matrix(150,0,0,150,1185.53,1890.09)"></g>
+  <text
+    x="303.543px"
+    y="1890.09px"
+    style="
+      font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+      font-size: 150px;
+    "
+  >
+    T
+    <tspan x="389.896px 431.571px " y="1890.09px 1890.09px ">im</tspan>
+    es Regular
+  </text>
+  <g transform="matrix(150,0,0,150,1030.11,2097.53)"></g>
+  <text
+    x="303.543px"
+    y="2097.53px"
+    style="
+      font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
+      font-weight: 700;
+      font-size: 150px;
+    "
+  >
+    T
+    <tspan x="400.882px 442.557px " y="2097.53px 2097.53px ">im</tspan>
+    es Bold
+  </text>
+  <g transform="matrix(150,0,0,150,1749.99,842.003)"></g>
+  <text
+    x="303.543px"
+    y="842.003px"
+    style="
+      font-family: 'PlayfairDisplay-Bold', 'Playfair Display';
+      font-weight: 700;
+      font-size: 150px;
+    "
+  >
+    P
+    <tspan
+      x="398.193px 444.843px 521.193px 596.943px "
+      y="842.003px 842.003px 842.003px 842.003px "
+    >
+      layf
+    </tspan>
+    air
+    <tspan x="841.593px " y="842.003px "></tspan>
+    Displa
+    <tspan x="1322.49px 1396.14px " y="842.003px 842.003px ">y</tspan>
+    Bo
+    <tspan x="1615.14px 1660.29px " y="842.003px 842.003px ">ld</tspan>
+  </text>
+  <g transform="matrix(150,0,0,150,2058.24,629.726)"></g>
+  <text
+    x="303.543px"
+    y="629.726px"
+    style="
+      font-family: 'PlayfairDisplay-SemiBold', 'Playfair Display';
+      font-weight: 600;
+      font-size: 150px;
+    "
+  >
+    P
+    <tspan
+      x="395.343px 440.793px 516.243px 591.693px "
+      y="629.726px 629.726px 629.726px 629.726px "
+    >
+      layf
+    </tspan>
+    air
+    <tspan x="831.993px " y="629.726px "></tspan>
+    Displa
+    <tspan x="1306.14px 1379.04px " y="629.726px 629.726px ">y</tspan>
+    Se
+    <tspan x="1575.39px " y="629.726px ">m</tspan>
+    ibo
+    <tspan x="1925.49px 1969.44px " y="629.726px 629.726px ">ld</tspan>
+  </text>
+</svg>
